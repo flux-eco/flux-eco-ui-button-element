@@ -1,0 +1,34 @@
+{
+  "/index.html": {
+    "pathType": "file",
+    "contentType": "text/html"
+  },
+  "/main.mjs": {
+    "pathType": "file",
+    "contentType": "application/javascript"
+  },
+  "/state-schema.json": {
+    "pathType": "file",
+    "contentType": "application/json"
+  },
+  "/services/flux-eco-js-monad/component/state/FluxEcoJsStateMonad.mjs": {
+    "pathType": "file",
+    "contentType": "application/javascript"
+  },
+  "/services/flux-ui-button-element/component/FluxEcoUiButtonElement.mjs": {
+    "pathType": "file",
+    "contentType": "application/javascript"
+  },
+  "/services/flux-ui-button-element/component/FluxEcoUiButtonApi.mjs": {
+    "pathType": "file",
+    "contentType": "application/javascript"
+  },
+  "/services/flux-ui-button-element/component/FluxEcoUiButtonElementState.mjs": {
+    "pathType": "file",
+    "contentType": "application/javascript"
+  },
+  "/services/flux-ui-button-element/component/style.css": {
+    "pathType": "file",
+    "contentType": "text/css"
+  }
+}
